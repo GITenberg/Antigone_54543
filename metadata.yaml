@@ -1,0 +1,24 @@
+_repo: Antigone_54543
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sophocles
+    alias: Σοφοκλής
+    birthdate: -496
+    deathdate: -406
+    gutenberg_agent_id: '26'
+    url: http://www.gutenberg.org/2009/agents/26
+    wikipedia: http://en.wikipedia.org/wiki/Sophocles
+description: ''
+gutenberg_issued: '2017-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54543'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Antigone
+url: http://www.gutenberg.org/ebooks/54543
